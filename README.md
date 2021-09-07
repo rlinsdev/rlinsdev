@@ -51,7 +51,6 @@
 	<a href="mailto:rlinsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 	<a href="https://www.linkedin.com/in/rodrigo-lins-77653035/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://gitlab.com/rlinsdev" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>  
-	![Snake animation](https://github.com/rlinsdev/rlinsdev/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://gitlab.com/rlinsdev" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>  </div>
 	
-</div>
+![Snake animation](https://github.com/rlinsdev/rlinsdev/blob/output/github-contribution-grid-snake.svg)
