@@ -42,7 +42,9 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="Php">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" title="Heroku">
-  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux">	  	  
+  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux">
+  <img align="center" alt="Netlify" height="30" width="40" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netlify">
+  <img align="center" alt="Vercel" height="30" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" title="Vercel">	  
   </div>
   <br />
 </div>
